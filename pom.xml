@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>c3</artifactId>
-    <version>0.4.10-SNAPSHOT</version>
+    <version>0.4.10</version>
     <name>c3</name>
     <description>WebJar for c3</description>
     <url>http://webjars.org</url>
@@ -53,7 +53,7 @@
         <url>http://github.com/webjars/c3</url>
         <connection>scm:git:https://github.com/webjars/c3.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/c3.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>c3-0.4.10</tag>
     </scm>
     
     <dependencies>
